@@ -1,4 +1,4 @@
-#  SFSymbols7Library
+#  SFSymbols7PublicPackage
 
 The package built by using the latest SF Symbols plist.
 
